@@ -1,5 +1,6 @@
 package org.blitzortung.android.app
 
+import android.content.BroadcastReceiver
 import androidx.multidex.MultiDexApplication
 import dagger.android.AndroidInjector
 import dagger.android.DispatchingAndroidInjector
